@@ -1,0 +1,14 @@
+table,tr{
+    
+    border: 1px solid black; 
+    width:100%;
+}
+th{
+    width:40px;
+}
+
+
+#contentArea{
+    justify-content: center;
+    width:100%;
+}
